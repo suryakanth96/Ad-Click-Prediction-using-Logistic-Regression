@@ -1,7 +1,7 @@
 # Ad-Click-Prediction-using-Logistic-Regression
 A simple logistic regression project on a fake advertising dataset.
 
-In this project, a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement. The objective is to create a model that will predict whether or not they will click on an ad based off the features of that user.
+In this project, a fake advertising data set, indicating whether or not a particular internet user clicked on an Advertisement is used. The objective is to create a model that will predict whether or not they will click on an ad based off the features of that user.
 
 This data set contains the following features:
 
